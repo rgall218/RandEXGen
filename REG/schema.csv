@@ -1,0 +1,11 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17
+force,static,push,pull,,,,,,,,,,,,,,
+level,beginner ,intermediate ,expert,,,,,,,,,,,,,,
+mechanic,isolation,compound,,,,,,,,,,,,,,,
+equipment,medicine ball,dumbbell,body only,bands,kettlebells,foam roll,cable,machine,barbell,exercise ball,e-z curl bar,other,,,,,
+primary muscles,abdominals,abuctors,adductors,biceps,calves,chest,forearms,glutes,hamstrings,lats,lower back,middle back,neck,quadriceps,shoulders,traps,Triceps 
+secondary muscles,abdominals,abuctors,adductors,biceps,calves,chest,forearms,glutes,hamstrings,lats,lower back,middle back,neck,quadriceps,shoulders,traps,triceps
+category,powerlifting,strength,stretching,cardio,olympic weightlifting,strongman,plyometrics,,,,,,,,,,
+core,abdominals,middle back,,,,,,,,,,,,,,,
+upperbody,biceps,chest,forearms,lats,neck,shoulders,traps,triceps,,,,,,,,,
+lowerbody,abductors,adductors,calves,glutes,hamstrings,lower back,quadriceps,,,,,,,,,,
